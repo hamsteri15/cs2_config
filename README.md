@@ -52,8 +52,12 @@ To enable nice set of nade practice configs, make a copy of the "autoexec" file 
 exec practice
 ```
 
-to the console. You may also choose to copy the files mirage_s1, mirage_s2... to that folder. These allow you to practice insta t-side window smokes by spawning automatically to the correct location and placing the crosshair into right place. Note that some of the spawns require a "walkthrow bind" which is binded to keybutton "h" in autoexec.cfg.
+to the console. You may also choose to copy the files mirage_s1, mirage_s2... to that folder. These allow you to practice insta t-side window smokes by spawning automatically to the correct location and placing the crosshair into right place. Note that some of the spawns require a "walkthrow bind" which is binded to keybutton "h" in autoexec.cfg. To spawn to spawn location 1 type 
 
+```
+exec mirage_s1
+```
+In a free server on mirage after you have executed the practice configs.
 
 
 ## FAQ
