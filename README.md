@@ -33,7 +33,7 @@ To execute the autoexec file during startup of cs2. Open Steam, right-click  and
 Personally, I also like to specify the in-game resolution, update frequency etc. in the launch options
 
 ```
--w 1280 -h 960 -freq 144 -console -novid -tickrate 128 +exec autoexec
+-w 1280 -h 960 -freq 144 -console -novid +exec autoexec
 ```
 
 ## Step 4: Ensure that the autoexec file works
